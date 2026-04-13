@@ -1,4 +1,4 @@
-# Humdrum
+# Humdrum 🩶💤
 
 A quiet Vim colorscheme for people who like their editor a little dull.
 
