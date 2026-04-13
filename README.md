@@ -2,13 +2,13 @@
 
 A quiet Vim colorscheme for people who like their editor a little dull.
 
-Humdrum splits the world in two: code is rendered almost completely
-desaturated, while interactive messages use color for warnings, errors,
-highlights, completion, and other editor feedback. The result is a simple
-visual hierarchy instead of color anarchy.
+Humdrum splits the world in two: code is rendered completely desaturated,
+while interactive messages use color for warnings, errors, highlights,
+completion, and other editor feedback. The result is a simple visual
+hierarchy instead of color anarchy.
 
 It includes dark and light variants, lightline support, and a few practical
-plugin highlights.
+plugin highlights (FZF, LSP, Lightline, Easymotion, ALE, COC, Markdown...).
 
 Plugin support follows what I use day to day, and contributions are welcome.
 
