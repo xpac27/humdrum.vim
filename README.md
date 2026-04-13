@@ -28,7 +28,7 @@ Then:
 colorscheme humdrum
 ```
 
-## Light Mode
+## Light Mode (WIP)
 
 Humdrum follows Vim's `background` option:
 
