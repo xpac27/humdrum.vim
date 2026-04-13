@@ -47,3 +47,7 @@ let g:humdrum_emphasize_whitespace = 1
 ```
 
 Both default to `0`.
+
+## Inspiration
+
+Humdrum is inspired by [vim-monotone](https://github.com/Lokaltog/vim-monotone).
