@@ -189,8 +189,8 @@ call s:link('ParenMatch', 'MatchParen')
 call s:hi('CurrentWord', '', 'gray_4', '', '', '', '')
 
 " Statusline and tabline.
-call s:hi('StatusLine', 'gray_2', 'gray_2', 'underline', '248', 'NONE', 'underline')
-call s:hi('StatusLineNC', 'gray_2', 'gray_2', 'underline', '240', 'NONE', 'underline')
+call s:hi('StatusLine', 'gray_9', 'gray_2', 'NONE', '248', 'NONE', 'NONE')
+call s:hi('StatusLineNC', 'gray_5', 'gray_2', 'NONE', '240', 'NONE', 'NONE')
 call s:hi('TabLine', 'bright_0', 'NONE', 'NONE', '240', 'NONE', 'NONE')
 call s:hi('TabLineFill', 'bright_0', 'NONE', 'NONE', '240', 'NONE', 'NONE')
 call s:hi('TabLineSel', 'bright_2', 'NONE', 'bold', '248', 'NONE', 'bold')
