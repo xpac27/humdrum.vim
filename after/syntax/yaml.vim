@@ -24,8 +24,8 @@ execute 'highlight HumdrumYamlKey guifg=' . s:key . ' guibg=NONE gui=bold ctermf
 " flow delimiters ([ ], { }, commas) so they have identical visual weight.
 execute 'highlight HumdrumYamlDelimiter guifg=' . s:delimiter . ' guibg=NONE gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE'
 
-" Text/scalar values are secondary information: light gray and italic.
-execute 'highlight HumdrumYamlValue guifg=' . s:value . ' guibg=NONE gui=italic ctermfg=250 ctermbg=NONE cterm=italic'
+" Text/scalar values are secondary information: light gray and upright.
+execute 'highlight HumdrumYamlValue guifg=' . s:value . ' guibg=NONE gui=NONE ctermfg=250 ctermbg=NONE cterm=NONE'
 
 " Numeric values remain bright, but without extra typographic emphasis.
 execute 'highlight HumdrumYamlNumber guifg=' . s:number . ' guibg=NONE gui=NONE ctermfg=255 ctermbg=NONE cterm=NONE'
